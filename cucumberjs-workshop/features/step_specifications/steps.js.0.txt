@@ -1,0 +1,16 @@
+const { Given, When, Then } = require("@cucumber/cucumber");
+
+Given('I have the number {string}', function (string) {
+  // Write code here that turns the phrase above into concrete actions
+  return 'pending';
+});
+
+When('I add it to the number {string}', function (string) {
+  // Write code here that turns the phrase above into concrete actions
+  return 'pending';
+ });
+
+Then('the result should be the number {string}', function (string) {
+  // Write code here that turns the phrase above into concrete actions
+ return 'pending';
+});
