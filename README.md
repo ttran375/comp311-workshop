@@ -285,6 +285,7 @@ generated](media/image70.png)
 
 - <https://cucumber.io/>
 - <https://github.com/cucumber>
-- [^1]: See <https://dannorth.net/introducing-bdd/>
-- [^2]: Apparently Gherkin is a type of cucumber used mainly for pickling (See <https://www.merriam-webster.com/dictionary/gherkin>)
-- [^3]: See <https://github.com/cucumber>
+
+[^1]: See <https://dannorth.net/introducing-bdd/>
+[^2]: Apparently Gherkin is a type of cucumber used mainly for pickling (See <https://www.merriam-webster.com/dictionary/gherkin>)
+[^3]: See <https://github.com/cucumber>
